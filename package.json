@@ -1,0 +1,15 @@
+{
+  "name": "Project",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "node": "latest",
+    "npm": "latest",
+    "body-parser": "latest",
+    "express": "latest",
+    "nodemailer": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
