@@ -1,15 +1,19 @@
 {
-  "name": "Project",
-  "version": "0.0.1",
-  "private": false,
-  "dependencies": {
-    "node": "latest",
-    "npm": "latest",
-    "body-parser": "latest",
-    "express": "latest",
-    "nodemailer": "latest"
-  },
-  "scripts": {
-    "start": "node index.js"
-  }
+    "name": "Project",
+    "version": "0.0.1",
+    "engines": {
+        "node": "8.9.3"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "body-parser": "latest",
+        "express": "latest",
+        "ejs": "latest",
+        "nodemailer": "latest"
+    },
+    
 }
+
