@@ -13,7 +13,7 @@
         "express": "latest",
         "ejs": "latest",
         "nodemailer": "latest"
-    },
+    }
     
 }
 
